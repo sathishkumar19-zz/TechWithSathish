@@ -1,4 +1,4 @@
-#### This Website is a reflection of My design thoughts on the following 
+This Website is a reflection of My design thoughts on the following 
 
 - **Architecture patterns** on Different Providers and platforms.
 - **System Design** concepts on Solution level.
