@@ -2,8 +2,8 @@
 
 This Website is a reflection of my Design Thoughts on the following 
 
-- Architecture patterns on Different Providers and platforms, 
-- System Design concepts on Solution level, 
+- Architecture patterns on Different Providers and platforms.
+- System Design concepts on Solution level.
 - Integration patterns describes the basic building blocks for architectures
 - Simple Scenarios targetting hypothetical scenario's , Interview questions etc. 
 
