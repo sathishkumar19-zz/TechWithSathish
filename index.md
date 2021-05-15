@@ -1,5 +1,3 @@
-# Architecture Patterns - Systems Design - Integration Patterns - Simple Scenarios
-
 This Website is a reflection of My design thoughts on the following 
 
 - Architecture patterns on Different Providers and platforms.
