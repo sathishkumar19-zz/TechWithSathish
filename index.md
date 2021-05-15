@@ -9,6 +9,7 @@ This Website is a reflection of My design thoughts on the following
 
 
 ## Contents
+Under each Topic, click on the each link to learn about specific scenario
 ### Architecture Patterns
 -  Microservices
 
