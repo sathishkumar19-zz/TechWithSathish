@@ -1,6 +1,7 @@
 # Architecture Patterns - Systems Design - Integration Patterns - Simple Scenarios
 
-This website holds my thought process on 
+This Website is a reflection of my Design Thoughts on the following 
+
 - Architecture patterns on Different Providers and platforms, 
 - System Design concepts on Solution level, 
 - Integration patterns describes the basic building blocks for architectures
