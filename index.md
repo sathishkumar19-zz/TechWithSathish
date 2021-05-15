@@ -8,13 +8,13 @@ This website holds my thought process on
 
 
 ## Contents
-###Architecture Patterns
+### Architecture Patterns
 -  Microservices
 
 ### Systems Designs 
 - Tele booking
 
-###Integration Patterns
+### Integration Patterns
 - Event Based Integrations 
 
 ### Simple Scenarios 
